@@ -1,3 +1,11 @@
+APORTE ESTUDIANTE 2 (YORLENI RODRÍGUEZ BALÓN)
+6.2 Secuenciar las Actividades
+Secuenciar las actividades es un paso fundamental en la gestión del tiempo de un proyecto, que consiste en ordenar las actividades de acuerdo con sus relaciones de dependencia. Este proceso organiza el flujo de trabajo y define el orden lógico en que deben realizarse las tareas para completar el proyecto de manera eficiente.
+- Identificar Dependencias: Establecer relaciones entre actividades, clasificándolas como dependencias obligatorias (actividades que deben suceder en un orden específico), dependencias discrecionales (establecidas por el equipo de proyecto) o dependencias externas (condicionadas por factores fuera del proyecto).
+- Definir Tipos de Relaciones: Determinar el tipo de relación entre actividades, como inicio a fin, fin a inicio, inicio a inicio, o fin a fin, lo que afecta el orden en el que pueden iniciarse o completarse.
+- Utilizar Diagramas de Red de Proyecto: Representar gráficamente las secuencias de actividades mediante diagramas de red, que ayudan a visualizar el flujo y a identificar el camino crítico, es decir, la serie de actividades que determina la duración total del proyecto.
+- Asignar Adelantos y Retrasos: Ajustar el cronograma aplicando adelantos (para permitir que una actividad comience antes de que su predecesora esté completa) o retrasos (para posponer el inicio de una actividad).
+
 APORTE ESTUDIANTE 3 (RUBEN SERPA ARREAGA)
 6.3 Estimación de los recursos de las actividades
 En la gestión de proyectos, la estimación de recursos de las actividades es un proceso clave dentro de la planificación del cronograma. Esta fase busca determinar los recursos específicos (humanos, materiales y equipos) que serán necesarios para realizar cada actividad en un proyecto. La correcta identificación y asignación de estos recursos es crucial para asegurar que las tareas se completen de manera eficiente, dentro del tiempo y presupuesto previsto, y con la calidad deseada.
@@ -23,6 +31,7 @@ La principal salida de este proceso es el requisito de recursos de cada activida
 El uso de estos recursos debe ser monitoreado y controlado durante el proyecto para garantizar que se mantenga dentro de los límites presupuestarios y temporales.
 Importancia en el proyecto
 Una estimación correcta y bien organizada de los recursos es esencial para el éxito del proyecto, ya que afecta directamente el cronograma, el presupuesto y la calidad final de los entregables. Por eso, es importante que este proceso se realice de manera precisa, considerando todas las posibles limitaciones y colaborando estrechamente con el equipo de trabajo.
+
 APORTE ESTUDIANTE 4 (KENIC DE LA CRUZ RODRÍGUEZ)
 6.5 Desarrollar el Cronograma
 El desarrollo del cronograma es una etapa esencial en la gestión del tiempo de un proyecto, ya que establece una guía estructurada de las actividades necesarias para completar el proyecto en el plazo previsto. Este proceso implica definir, secuenciar y estimar la duración de las actividades, integrando recursos y dependencias para lograr un flujo eficiente de trabajo.
