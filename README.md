@@ -1,3 +1,53 @@
+Capítulo 6
+Gestión del Tiempo del Proyecto
+APORTE ESTUDIANTE 1 (JULEYDI RIVERA)
+
+6.1.Definir las Actividades 
+Es el proceso que consiste en identificar las acciones específicas a ser realizadas
+para elaborar los entregables del proyecto. Las actividades proporcionan una
+base para la estimación, planificación, ejecución, seguimiento y control del trabajo del proyecto. 
+
+6.1.1 Definir las Actividades: Entradas
+1 Línea Base del Alcance
+Deben considerarse explícitamente al definir las actividades.
+2 Factores Ambientales de la Empresa
+Entre los factores ambientales de la empresa que pueden influir en el proceso Definir las Actividades,
+se encuentra el sistema de información de la gestión de proyectos (PMIS).
+3 Activos de los Procesos de la Organización
+•	 Las políticas, procedimientos y lineamientos existentes, ya sean formales o informales
+relacionados con la planificación de las actividades, tales como la metodología de planificación,
+que se consideran en la definición de las actividades.
+•	 La base de conocimiento de lecciones aprendidas que contiene información histórica relativa a
+las listas de actividades utilizadas en proyectos anteriores similares.
+
+6.1.2 Definir las Actividades: Herramientas y Técnicas
+1 Descomposición
+La técnica de descomposición, tal como se aplica para definir las actividades, consiste en
+subdividir los paquetes de trabajo del proyecto en componentes más pequeños y más fáciles de
+manejar, denominados actividades.
+2 Planificación Gradual
+La planificación gradual es una forma de planificación mediante elaboración gradual, donde se
+planifica en detalle el trabajo que debe desarrollarse en el corto plazo y el trabajo futuro se planifica a
+un nivel superior de la EDT.
+3 Plantillas
+Una lista de actividades estándar o una parte de una lista de un proyecto previo, puede utilizarse
+a menudo como plantilla para un nuevo proyecto.Las plantillas también pueden utilizarse para identificar hitos típicos del cronograma.
+4 Juicio de Expertos
+Los miembros del equipo del proyecto u otros expertos con experiencia y habilidad en el desarrollo
+de declaraciones de alcance del proyecto detalladas.
+
+6.1.3 Definir las Actividades: Salidas
+1 Lista de Actividades
+La lista de actividades es una lista exhaustiva que abarca todas las actividades del cronograma
+necesarias para el proyecto. 
+2 Atributos de la Actividad
+Los atributos de la actividad amplían la descripción de la actividad, identificando los múltiples
+componentes relacionados con cada una de ellas. Los componentes de cada actividad evolucionan con el
+tiempo. 
+3 Lista de Hitos
+Un hito es un punto o evento significativo dentro del proyecto. Una lista de hitos identifica todos los
+hitos e indica si éstos son obligatorios.
+
 APORTE ESTUDIANTE 2 (YORLENI RODRÍGUEZ BALÓN)
 6.2 Secuenciar las Actividades
 Secuenciar las actividades es un paso fundamental en la gestión del tiempo de un proyecto, que consiste en ordenar las actividades de acuerdo con sus relaciones de dependencia. Este proceso organiza el flujo de trabajo y define el orden lógico en que deben realizarse las tareas para completar el proyecto de manera eficiente.
@@ -31,6 +81,76 @@ La principal salida de este proceso es el requisito de recursos de cada activida
 El uso de estos recursos debe ser monitoreado y controlado durante el proyecto para garantizar que se mantenga dentro de los límites presupuestarios y temporales.
 Importancia en el proyecto
 Una estimación correcta y bien organizada de los recursos es esencial para el éxito del proyecto, ya que afecta directamente el cronograma, el presupuesto y la calidad final de los entregables. Por eso, es importante que este proceso se realice de manera precisa, considerando todas las posibles limitaciones y colaborando estrechamente con el equipo de trabajo.
+
+6.4 Estimar la Duración de las Actividades
+Estimar la Duración de las Actividades es el proceso que consiste en establecer aproximadamente la
+cantidad de periodos de trabajo necesarios para finalizar cada actividad con los recursos estimados. El estimado
+de la duración de las actividades utiliza información sobre el alcance del trabajo de la actividad, los tipos de
+recursos necesarios, las cantidades estimadas de los mismos y sus calendarios de utilización.
+
+6.4.1 Estimar la Duración de las Actividades: Entradas
+1 Lista de Actividades
+La lista de actividades es una lista exhaustiva que abarca todas las actividades del cronograma
+necesarias para el proyecto. 
+2 Atributos de la Actividad
+Los atributos de la actividad amplían la descripción de la actividad, identificando los múltiples
+componentes relacionados con cada una de ellas. Los componentes de cada actividad evolucionan con el
+tiempo. 
+3 Requisitos de Recursos de la Actividad
+Tendrán un efecto sobre la duración de las actividades, puesto que los recursos asignados a cada actividad y la disponibilidad de los mismos influirán de manera significativa en la duración de la mayoría de las actividades. 
+4 Calendarios de Recursos
+Desarrollado como parte del proceso Estimar
+los Recursos de las Actividades, puede abarcar el tipo de recursos humanos, su disponibilidad y
+su capacidad.
+5 Enunciado del Alcance del Proyecto
+•	las condiciones existentes
+•	 las disponibilidad de información
+•	 la frecuencia de los periodos de presentación de informes
+6 Factores Ambientales de la Empresa
+•	 las bases de datos de los estimados de la duración y otros datos de referencia
+•	 as métricas de productividad
+•	 la información comercial publicada
+7 Activos de los Procesos de la Organización
+•	 la información histórica relativa a la duración
+•	 los calendarios del proyecto
+•	 la metodología de planificación
+•	 las lecciones aprendidas
+
+6.4.2 Estimar la Duración de las Actividades: Herramientas y Técnicas
+1 Juicio de Expertos
+El juicio de expertos, guiado por la información histórica, puede proporcionar información sobre
+el estimado de la duración o las duraciones máximas recomendadas, procedentes de proyectos
+similares anteriores. 
+2 Estimación Análoga
+La estimación análoga utiliza parámetros de un proyecto anterior similar, tales como la duración,
+el presupuesto, el tamaño, la carga y la complejidad, como base para estimar los mismos parámetros
+o medidas para un proyecto futuro.
+3 Estimación Paramétrica
+La estimación paramétrica utiliza una relación estadística entre los datos históricos y otras
+variables, para calcular una estimación de parámetros de una actividad tales como costo, presupuesto y duración.
+4 Estimación por Tres Valores
+La precisión de los estimados de la duración de la actividad puede mejorarse tomando en
+consideración el grado de incertidumbre y de riesgo de la estimación. 
+•	 Más probable (tM). Es la duración de la actividad, en función de los recursos que probablemente
+se asignarán, de su productividad, de las expectativas realistas de disponibilidad para la
+actividad, de las dependencias de otros participantes y de las interrupciones.
+•	 Optimista (tO). La duración de la actividad está basada en el análisis del mejor escenario
+posible para esa actividad.
+•	 Pesimista (tP). La duración de la actividad está basada en el análisis del peor escenario posible
+para esa actividad.
+5 Análisis de Reserva
+La reserva para contingencias puede ser un porcentaje de la duración
+estimada de la actividad, una cantidad fija de periodos de trabajo, o puede calcularse utilizando
+métodos de análisis cuantitativos.
+
+6.4.3 Estimar la Duración de las Actividades: Salidas
+1 Estimados de la Duración de la Actividad
+Los estimados de la duración de las actividades son valoraciones cuantitativas de la cantidad probable
+de periodos de trabajo que se necesitarán para completar una actividad.
+2 Actualizaciones a los Documentos del Proyecto
+•	 los atributos de la actividad
+•	 los supuestos hechos durante el desarrollo del estimado de la duración de las actividades,
+como los niveles de habilidad y disponibilidad.
 
 APORTE ESTUDIANTE 4 (KENIC DE LA CRUZ RODRÍGUEZ)
 6.5 Desarrollar el Cronograma
