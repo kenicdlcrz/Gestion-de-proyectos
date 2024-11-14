@@ -82,6 +82,7 @@ El uso de estos recursos debe ser monitoreado y controlado durante el proyecto p
 Importancia en el proyecto
 Una estimación correcta y bien organizada de los recursos es esencial para el éxito del proyecto, ya que afecta directamente el cronograma, el presupuesto y la calidad final de los entregables. Por eso, es importante que este proceso se realice de manera precisa, considerando todas las posibles limitaciones y colaborando estrechamente con el equipo de trabajo.
 
+APORTE ESTUDIANTE 1 (JULEYDI RIVERA)
 6.4 Estimar la Duración de las Actividades
 Estimar la Duración de las Actividades es el proceso que consiste en establecer aproximadamente la
 cantidad de periodos de trabajo necesarios para finalizar cada actividad con los recursos estimados. El estimado
